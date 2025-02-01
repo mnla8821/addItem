@@ -26,4 +26,4 @@ Task that show you how can add or delete or update item using react.
 - Bootstrap: For styling the UI.
 
 ## Screenshot 
-![screenshot](src/Assets/swiper.png)
+![screenshot](src/add.png)
